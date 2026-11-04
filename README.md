@@ -1,4 +1,4 @@
-# 📊 Applicant Data Cleaning & Exploratory Data Analysis
+# 📊 NextGen Leaners Remote Data Science Internship
 
 ## 📌 Project Overview
 
