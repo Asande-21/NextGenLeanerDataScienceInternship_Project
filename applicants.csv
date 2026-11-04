@@ -1,81 +1,78 @@
-Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status
-Nandi Ndlovu,nandindlovu@gmail.com,0613356886,Cybersecurity,UCT,2026-02-27,Under Review
-David Adams,davidadams@gmail.com,0683197857,Data Science,University of Johannesburg,2026-04-19,Under Review
-Thando Mthembu,,0639345092,Web Development,University of Johannesburg,2026-06-04,Under Review
-Nomsa Naidoo,nomsanaidoo@gmail.com,0697226012,Data Analytics,University of Pretoria,2026-02-26,Selected
-Peter Brown,peterbrown@gmail.com,0710872248,Web Development,University of Pretoria,2026-03-29,Selected
-  Thando Mthembu  ,siphonkosi@gmail.com,0655176955,Data Science,UKZN,2026-04-08,Under Review
-John Smith,johnsmith@gmail.com,0791030736,Cybersecurity,UKZN,2026-07-06,Selected
-Nomsa Naidoo,nomsanaidoo@gmail.com,,Data Science,University of Johannesburg,2026-03-17,Rejected
-Peter Brown,peterbrown@gmail.com,0787490893,Web Development,UKZN,2026-01-12,Rejected
-Ayanda Zulu,ayandazulu@gmail.com,0720709497,Web Development,UKZN,2026-04-08,Selected
-Sibusiso Khumalo,sibusisokhumalo@gmail.com,0858966946,data science,Wits,2026-04-01,Under Review
-Nandi Ndlovu,nandindlovu@gmail.com,0796977837,Data Science,University of Johannesburg,2026-06-12,Under Review
-Nomsa Naidoo,nomsanaidoo@gmail.com,0842857966,Web Development,,2026-04-08,Selected
-Nandi Ndlovu,nandindlovu@gmail.com,0884752529,Web Development,Wits,2026-08-04,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0652339391,Software Engineering,Wits,2026-01-17,Under Review
-Peter Brown,peterbrown@gmail.com,0852235350,Web Development,University of Pretoria,2026-04-12,selected
-Sibusiso Khumalo,sibusisokhumalo@gmail.com,0645551614,Web Development,UCT,2026-07-10,Rejected
-Nomsa Naidoo,nomsanaidoo@gmail.com,0788461803,Software Engineering,University of Johannesburg,2026-04-13,
-Ayanda Zulu,ayandazulu@gmail.com,0678387461,Software Engineering,UKZN,2026-07-13,Under Review
-Zanele Dlamini,zaneledlamini@gmail.com,0694214382,Web Development,University of Pretoria,2026-06-02,Under Review
-Mary Jones,not-an-email,0789978790,Software Engineering,University of Johannesburg,2026-03-06,Rejected
-Thando Mthembu,thandomthembu@gmail.com,0825374874,Data Analytics,Wits,2026-07-16,Rejected
-John Smith,johnsmith@gmail.com,0649392920,Software Engineering,UCT,2026-04-27,Under Review
-David Adams,davidadams@gmail.com,0845351479,Data Analytics,UCT,2026-05-10,Under Review
-Nandi Ndlovu,nandindlovu@gmail.com,0795758349,Data Analytics,University of Johannesburg,2026-02-20,Under Review
-John Smith,johnsmith@gmail.com,abc123,Data Analytics,UKZN,2026-06-03,Selected
-Sibusiso Khumalo,sibusisokhumalo@gmail.com,0625014631,Cybersecurity,Wits,2026-03-03,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0820570592,Data Science,University of Pretoria,2026-07-28,Under Review
-Nomsa Naidoo,nomsanaidoo@gmail.com,0627232410,Software Engineering,University of Johannesburg,2026-02-12,Selected
-Nomsa Naidoo,nomsanaidoo@gmail.com,0866792612,Web Development,University of Johannesburg,2026-07-13,Rejected
-David Adams,davidadams@gmail.com,0651837852,Software Engineering,Wits,15/05/2026,Rejected
-Sibusiso Khumalo,sibusisokhumalo@gmail.com,0643273328,Web Development,UKZN,2026-03-28,Under Review
-Peter Brown,peterbrown@gmail.com,0840885476,Data Analytics,UCT,2026-01-02,Under Review
-David Adams,davidadams@gmail.com,0817901903,Web Development,UKZN,2026-08-20,Under Review
-John Smith,johnsmith@gmail.com,0679008866,Web Development,Wits,2026-06-21,Selected
-Ayanda Zulu,ayandazulu@gmail.com,0827758595,Graphic Design,University of Johannesburg,2026-05-02,Under Review
-Sibusiso Khumalo,sibusisokhumalo@gmail.com,0735556386,Data Science,UKZN,2026-06-18,Selected
-John Smith,johnsmith@gmail.com,0765177213,Software Engineering,UKZN,2026-06-22,Rejected
-Nandi Ndlovu,nandindlovu@gmail.com,0618135295,Software Engineering,Wits,2026-07-24,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0635529407,Data Analytics,University of Pretoria,2026-02-05,Selected
-Sipho Nkosi,siphonkosi@gmail.com,0772092888,Web Development, ukzn ,2026-04-24,Rejected
-Zanele Dlamini,zaneledlamini@gmail.com,0697529405,Data Analytics,UKZN,2026-09-06,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0664547971,Software Engineering,University of Pretoria,2026-02-24,Selected
-Thando Mthembu,thandomthembu@gmail.com,0660864911,Data Science,University of Pretoria,2026-03-09,Selected
-Lerato Mokoena,leratomokoena@gmail.com,0784593961,Software Engineering,UCT,2026-02-18,Selected
-,ayandazulu@gmail.com,0687736262,Data Analytics,UKZN,2026-07-11,Selected
-Thando Mthembu,thandomthembu@gmail.com,0688406989,Software Engineering,University of Johannesburg,2026-08-24,Rejected
-Sipho Nkosi,siphonkosi@gmail.com,0678159587,Data Science,UCT,2026-01-18,Rejected
-Zanele Dlamini,zaneledlamini@gmail.com,0841568532,Software Engineering,UKZN,2026-08-30,Rejected
-Ayanda Zulu,ayandazulu@gmail.com,0889795010,Data Science,University of Johannesburg,2026-01-21,Selected
-Nomsa Naidoo,nomsanaidoo@gmail.com,0697226012,Data Analytics,University of Pretoria,2026-02-26,Selected
-Nomsa Naidoo,nomsanaidoo@gmail.com,0697226012,Data Analytics,University of Pretoria,2026-02-26,Selected
-Nandi Ndlovu,nandindlovu@gmail.com,0850264926,Software Engineering,Wits,2026-08-26,Under Review
-Thando Mthembu,thandomthembu@gmail.com,0793370583,Data Analytics,UKZN,2026-01-19,Rejected
-Ayanda Zulu,ayandazulu@gmail.com,0845594597,Web Development,Wits,2026-08-14,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0748250360,Web Development,University of Pretoria,2026-08-02,Rejected
-David Adams,davidadams@gmail.com,0792097999,Data Analytics,UKZN,2026-06-20,Rejected
-Lerato Mokoena,leratomokoena@gmail.com,0823903144,Web Development,Wits,2026-01-30,Under Review
-David Adams,davidadams@gmail.com,0830863865,Cybersecurity,Wits,2026-06-04,Under Review
-David Adams,davidadams@gmail.com,0737326368,Cybersecurity,University of Johannesburg,2026-05-06,Selected
-Thando Mthembu,thandomthembu@gmail.com,0695132217,Software Engineering,Wits,2026-01-12,Under Review
-John Smith,johnsmith@gmail.com,0695511909,Cybersecurity,UCT,2026-07-09,Selected
-Nomsa Naidoo,nomsanaidoo@gmail.com,0867403166,Data Analytics,UKZN,2026-01-29,Under Review
-David Adams,davidadams@gmail.com,0683227889,Data Science,Wits,2026-05-30,Rejected
-Sipho Nkosi,siphonkosi@gmail.com,0727105448,Data Science,Wits,2026-04-04,Under Review
-John Smith,johnsmith@gmail.com,0643491314,Data Science,Wits,2026-07-19,Rejected
-Mary Jones,maryjones@gmail.com,0830743797,Web Development,UCT,2026-09-07,Under Review
-Mary Jones,maryjones@gmail.com,0634073380,Cybersecurity,University of Pretoria,2026-07-25,Rejected
-David Adams,davidadams@gmail.com,0645810056,Web Development,UKZN,2026-04-08,Under Review
-Sibusiso Khumalo,sibusisokhumalo@gmail.com,0636786211,Software Engineering,Wits,2026-03-20,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0698588154,Web Development,University of Pretoria,2026-03-26,Selected
-Zanele Dlamini,zaneledlamini@gmail.com,0757130035,Data Analytics,University of Pretoria,2026-06-23,Rejected
-John Smith,johnsmith@gmail.com,0625480907,Cybersecurity,UCT,2026-05-29,Selected
-Thando Mthembu,thandomthembu@gmail.com,0690070438,Software Engineering,Wits,2026-07-06,Selected
-Mary Jones,maryjones@gmail.com,0878642041,Data Science,University of Pretoria,2026-08-19,Rejected
-Ayanda Zulu,ayandazulu@gmail.com,0715957459,Software Engineering,UKZN,2026-05-14,Rejected
-Nandi Ndlovu,nandindlovu@gmail.com,0836445607,Cybersecurity,University of Pretoria,2026-01-18,Rejected
-John Smith,johnsmith@gmail.com,0852133044,Data Science,Wits,2026-05-10,Selected
-Nandi Ndlovu,nandindlovu@gmail.com,0753779528,Software Engineering,Wits,2026-05-22,Under Review
-Ayanda Zulu,ayandazulu@gmail.com,0799245317,Software Engineering,UCT,2026-06-07,Rejected
+applicant_id,name,email,phone,domain,university,application_date,status
+1,Nandi Ndlovu,nandindlovu@gmail.com,0613356886,Cybersecurity,UCT,2026-02-27,Under Review
+2,David Adams,davidadams@gmail.com,0683197857,Data Science,University of Johannesburg,2026-04-19,Under Review
+3,Thando Mthembu,Follow-up Required,0639345092,Web Development,University of Johannesburg,2026-06-04,Under Review
+4,Nomsa Naidoo,nomsanaidoo@gmail.com,0697226012,Data Analytics,University of Pretoria,2026-02-26,Selected
+5,Peter Brown,peterbrown@gmail.com,0710872248,Web Development,University of Pretoria,2026-03-29,Selected
+6,Thando Mthembu,siphonkosi@gmail.com,0655176955,Data Science,UKZN,2026-04-08,Under Review
+7,John Smith,johnsmith@gmail.com,0791030736,Cybersecurity,UKZN,2026-07-06,Selected
+8,Nomsa Naidoo,nomsanaidoo@gmail.com,FollowupRequired,Data Science,University of Johannesburg,2026-03-17,Rejected
+9,Peter Brown,peterbrown@gmail.com,0787490893,Web Development,UKZN,2026-01-12,Rejected
+10,Ayanda Zulu,ayandazulu@gmail.com,0720709497,Web Development,UKZN,2026-04-08,Selected
+11,Sibusiso Khumalo,sibusisokhumalo@gmail.com,0858966946,Data Science,Wits,2026-04-01,Under Review
+12,Nandi Ndlovu,nandindlovu@gmail.com,0796977837,Data Science,University of Johannesburg,2026-06-12,Under Review
+13,Nomsa Naidoo,nomsanaidoo@gmail.com,0842857966,Web Development,Not Specified,2026-04-08,Selected
+14,Nandi Ndlovu,nandindlovu@gmail.com,0884752529,Web Development,Wits,2026-08-04,Under Review
+15,Ayanda Zulu,ayandazulu@gmail.com,0652339391,Software Engineering,Wits,2026-01-17,Under Review
+16,Peter Brown,peterbrown@gmail.com,0852235350,Web Development,University of Pretoria,2026-04-12,Selected
+17,Sibusiso Khumalo,sibusisokhumalo@gmail.com,0645551614,Web Development,UCT,2026-07-10,Rejected
+18,Nomsa Naidoo,nomsanaidoo@gmail.com,0788461803,Software Engineering,University of Johannesburg,2026-04-13,Under Review
+19,Ayanda Zulu,ayandazulu@gmail.com,0678387461,Software Engineering,UKZN,2026-07-13,Under Review
+20,Zanele Dlamini,zaneledlamini@gmail.com,0694214382,Web Development,University of Pretoria,2026-06-02,Under Review
+21,Mary Jones,not-an-email,0789978790,Software Engineering,University of Johannesburg,2026-03-06,Rejected
+22,Thando Mthembu,thandomthembu@gmail.com,0825374874,Data Analytics,Wits,2026-07-16,Rejected
+23,John Smith,johnsmith@gmail.com,0649392920,Software Engineering,UCT,2026-04-27,Under Review
+24,David Adams,davidadams@gmail.com,0845351479,Data Analytics,UCT,2026-05-10,Under Review
+25,Nandi Ndlovu,nandindlovu@gmail.com,0795758349,Data Analytics,University of Johannesburg,2026-02-20,Under Review
+26,John Smith,johnsmith@gmail.com,abc123,Data Analytics,UKZN,2026-06-03,Selected
+27,Sibusiso Khumalo,sibusisokhumalo@gmail.com,0625014631,Cybersecurity,Wits,2026-03-03,Under Review
+28,Ayanda Zulu,ayandazulu@gmail.com,0820570592,Data Science,University of Pretoria,2026-07-28,Under Review
+29,Nomsa Naidoo,nomsanaidoo@gmail.com,0627232410,Software Engineering,University of Johannesburg,2026-02-12,Selected
+30,Nomsa Naidoo,nomsanaidoo@gmail.com,0866792612,Web Development,University of Johannesburg,2026-07-13,Rejected
+31,David Adams,davidadams@gmail.com,0651837852,Software Engineering,Wits,2026-05-15,Rejected
+32,Sibusiso Khumalo,sibusisokhumalo@gmail.com,0643273328,Web Development,UKZN,2026-03-28,Under Review
+33,Peter Brown,peterbrown@gmail.com,0840885476,Data Analytics,UCT,2026-01-02,Under Review
+34,David Adams,davidadams@gmail.com,0817901903,Web Development,UKZN,2026-08-20,Under Review
+35,John Smith,johnsmith@gmail.com,0679008866,Web Development,Wits,2026-06-21,Selected
+36,Ayanda Zulu,ayandazulu@gmail.com,0827758595,Graphic Design,University of Johannesburg,2026-05-02,Under Review
+37,Sibusiso Khumalo,sibusisokhumalo@gmail.com,0735556386,Data Science,UKZN,2026-06-18,Selected
+38,John Smith,johnsmith@gmail.com,0765177213,Software Engineering,UKZN,2026-06-22,Rejected
+39,Nandi Ndlovu,nandindlovu@gmail.com,0618135295,Software Engineering,Wits,2026-07-24,Under Review
+40,Ayanda Zulu,ayandazulu@gmail.com,0635529407,Data Analytics,University of Pretoria,2026-02-05,Selected
+41,Sipho Nkosi,siphonkosi@gmail.com,0772092888,Web Development,UKZN,2026-04-24,Rejected
+42,Zanele Dlamini,zaneledlamini@gmail.com,0697529405,Data Analytics,UKZN,2026-09-06,Under Review
+43,Ayanda Zulu,ayandazulu@gmail.com,0664547971,Software Engineering,University of Pretoria,2026-02-24,Selected
+44,Thando Mthembu,thandomthembu@gmail.com,0660864911,Data Science,University of Pretoria,2026-03-09,Selected
+45,Lerato Mokoena,leratomokoena@gmail.com,0784593961,Software Engineering,UCT,2026-02-18,Selected
+46,Thando Mthembu,thandomthembu@gmail.com,0688406989,Software Engineering,University of Johannesburg,2026-08-24,Rejected
+47,Sipho Nkosi,siphonkosi@gmail.com,0678159587,Data Science,UCT,2026-01-18,Rejected
+48,Zanele Dlamini,zaneledlamini@gmail.com,0841568532,Software Engineering,UKZN,2026-08-30,Rejected
+49,Ayanda Zulu,ayandazulu@gmail.com,0889795010,Data Science,University of Johannesburg,2026-01-21,Selected
+50,Nandi Ndlovu,nandindlovu@gmail.com,0850264926,Software Engineering,Wits,2026-08-26,Under Review
+51,Thando Mthembu,thandomthembu@gmail.com,0793370583,Data Analytics,UKZN,2026-01-19,Rejected
+52,Ayanda Zulu,ayandazulu@gmail.com,0845594597,Web Development,Wits,2026-08-14,Under Review
+53,Ayanda Zulu,ayandazulu@gmail.com,0748250360,Web Development,University of Pretoria,2026-08-02,Rejected
+54,David Adams,davidadams@gmail.com,0792097999,Data Analytics,UKZN,2026-06-20,Rejected
+55,Lerato Mokoena,leratomokoena@gmail.com,0823903144,Web Development,Wits,2026-01-30,Under Review
+56,David Adams,davidadams@gmail.com,0830863865,Cybersecurity,Wits,2026-06-04,Under Review
+57,David Adams,davidadams@gmail.com,0737326368,Cybersecurity,University of Johannesburg,2026-05-06,Selected
+58,Thando Mthembu,thandomthembu@gmail.com,0695132217,Software Engineering,Wits,2026-01-12,Under Review
+59,John Smith,johnsmith@gmail.com,0695511909,Cybersecurity,UCT,2026-07-09,Selected
+60,Nomsa Naidoo,nomsanaidoo@gmail.com,0867403166,Data Analytics,UKZN,2026-01-29,Under Review
+61,David Adams,davidadams@gmail.com,0683227889,Data Science,Wits,2026-05-30,Rejected
+62,Sipho Nkosi,siphonkosi@gmail.com,0727105448,Data Science,Wits,2026-04-04,Under Review
+63,John Smith,johnsmith@gmail.com,0643491314,Data Science,Wits,2026-07-19,Rejected
+64,Mary Jones,maryjones@gmail.com,0830743797,Web Development,UCT,2026-09-07,Under Review
+65,Mary Jones,maryjones@gmail.com,0634073380,Cybersecurity,University of Pretoria,2026-07-25,Rejected
+66,David Adams,davidadams@gmail.com,0645810056,Web Development,UKZN,2026-04-08,Under Review
+67,Sibusiso Khumalo,sibusisokhumalo@gmail.com,0636786211,Software Engineering,Wits,2026-03-20,Under Review
+68,Ayanda Zulu,ayandazulu@gmail.com,0698588154,Web Development,University of Pretoria,2026-03-26,Selected
+69,Zanele Dlamini,zaneledlamini@gmail.com,0757130035,Data Analytics,University of Pretoria,2026-06-23,Rejected
+70,John Smith,johnsmith@gmail.com,0625480907,Cybersecurity,UCT,2026-05-29,Selected
+71,Thando Mthembu,thandomthembu@gmail.com,0690070438,Software Engineering,Wits,2026-07-06,Selected
+72,Mary Jones,maryjones@gmail.com,0878642041,Data Science,University of Pretoria,2026-08-19,Rejected
+73,Ayanda Zulu,ayandazulu@gmail.com,0715957459,Software Engineering,UKZN,2026-05-14,Rejected
+74,Nandi Ndlovu,nandindlovu@gmail.com,0836445607,Cybersecurity,University of Pretoria,2026-01-18,Rejected
+75,John Smith,johnsmith@gmail.com,0852133044,Data Science,Wits,2026-05-10,Selected
+76,Nandi Ndlovu,nandindlovu@gmail.com,0753779528,Software Engineering,Wits,2026-05-22,Under Review
+77,Ayanda Zulu,ayandazulu@gmail.com,0799245317,Software Engineering,UCT,2026-06-07,Rejected

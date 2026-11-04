@@ -1,0 +1,14 @@
+score_id,intern_id,score,domain
+1,2,80,Web Development
+2,4,74,Web Development
+3,7,71,Data Analytics
+4,8,92,Software Engineering
+5,10,85,Data Science
+6,11,69,Data Analytics
+7,12,78,Software Engineering
+8,13,80,Data Science
+9,14,65,Software Engineering
+10,15,58,Data Science
+11,16,99,Cybersecurity
+12,19,74,Cybersecurity
+13,20,84,Software Engineering
