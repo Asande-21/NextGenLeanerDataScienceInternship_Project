@@ -113,7 +113,7 @@ Developed practical experience in exploring datasets, identifying patterns, inte
 
 ## 📌 Overview
 
-The third week focused on developing practical SQL and database management skills while building an interactive dashboard to present important internship application metrics.
+The third week focused on developing practical SQL and database management skills while building an interactive dashboard to present important internship application metrics. To have access to week 3 info and data files open the branch "Week 3".
 
 The project involved importing multiple CSV datasets into an SQLite database, creating and organising database tables, generating unique applicant IDs and writing SQL queries to retrieve and analyse information.
 
